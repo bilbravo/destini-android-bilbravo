@@ -39,13 +39,10 @@ public class MainActivity extends AppCompatActivity {
                     mStoryTextView.setText(R.string.T6_End);
                     mTopButton.setVisibility(View.GONE);
                     mBottomButton.setVisibility(View.GONE);
-
                 }
-
 
             }
         });
-
 
 
         // TODO: Steps 6, 7, & 9 - Set a listener on the bottom button:
